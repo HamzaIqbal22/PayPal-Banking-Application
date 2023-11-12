@@ -14,6 +14,9 @@ Admins will be able to login through the shared login portal. Once logged in, th
 How to access the banking web application:
 In any browser, go to https://anantjawanda-paypal-streamlit-streamlit-app-dtmo4t.streamlit.app/ You will be taken to a home page that looks like this:
 
+![image](https://github.com/HamzaIqbal22/PayPal-Banking-Application/assets/81776951/3ec4b49e-b4ad-456f-aad4-e2b825a7f425)
+
+
 Application-screenshot
 
 Application installation instructions
