@@ -1,6 +1,6 @@
 # PayPal-Banking-Application
 
-This application is run using the Streamlit Python Library that <ins>hosts this github repository</ins>. Hence any changes made to this repository reflect the changes on the live site. The following documentation will first provide information about the application, live interactive link, and then how to install Streamlit and run the application locally.
+This application was run using the Streamlit Python Library that <ins>hosts this github repository</ins>. Hence any changes made to this repository reflect the changes on the live site. The following documentation will first provide information about the application, live interactive link, and then how to install Streamlit and run the application locally.
 <br/>
 
 ## About the application
